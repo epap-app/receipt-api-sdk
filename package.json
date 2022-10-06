@@ -2,7 +2,7 @@
   "name": "@epap/receipt-api-sdk",
   "version": "1.0.0",
   "description": "SDK for epap receipt api",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "build": "tsc",
     "lint": "eslint --fix --ext .ts src",

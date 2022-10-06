@@ -1,0 +1,10 @@
+test
+coverage
+.husky
+.vscode
+.github
+
+commitlint.config.js
+jest.config.js
+.eslintrc.json
+.prettierrc.js
