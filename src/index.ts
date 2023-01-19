@@ -1,5 +1,5 @@
 import fetch from "node-fetch";
-import jwt from "jsonwebtoken";
+import * as jwt from "jsonwebtoken";
 
 export type Receipt = {
   version: "1.0.0";
