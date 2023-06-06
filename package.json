@@ -1,6 +1,6 @@
 {
   "name": "@epap/receipt-api-sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "SDK for epap receipt api",
   "main": "lib/index.js",
   "scripts": {
